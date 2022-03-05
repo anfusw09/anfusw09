@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ann
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning cs and english
